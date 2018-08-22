@@ -85,4 +85,4 @@ exclude:
   - CNAME
 
 # added 2018-08-22
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-modernist
